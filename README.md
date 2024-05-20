@@ -5,7 +5,10 @@
 
 Como jogar?
 
-1- Para jogar é necessário ter o Python no computador/n
-2- Instale a biblioteca pygame pelo cmd: pip install pygame ou pip install pygame3/n
-3- Abra a pasta no seu editor de código/n
-4- Execute o arquivo e bom jogo!/n
+1- Para jogar é necessário ter o Python no computador
+
+2- Instale a biblioteca pygame pelo cmd: pip install pygame ou pip install pygame3
+
+3- Abra a pasta no seu editor de código
+
+4- Execute o arquivo e bom jogo!
