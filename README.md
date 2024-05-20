@@ -1,8 +1,10 @@
 # Petman-Adventure
  Jogo criado utilizando da biblioteca pygame do Python
- mais informações, apenas abra o arquivo PET - MAN ADVENTURE
+
 ----------------------------------------------------------------
 
+ Para mais informações, apenas abra o arquivo PET - MAN ADVENTURE
+ 
 Como jogar?
 
 1- Para jogar é necessário ter o Python no computador
